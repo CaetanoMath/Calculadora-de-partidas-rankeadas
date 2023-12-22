@@ -26,4 +26,4 @@ Além da proposta principal, decidi incorporar a variável "pronome", que pode a
 
 ## Tecnologias
 
-- Javascript
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
